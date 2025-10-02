@@ -1,14 +1,15 @@
 # /// script
 # requires-python = ">=3.12"
 # dependencies = [
-#     "marimo==0.13.15",
+#     "marimo==0.16.2",        # match __generated_with
+#     "narwhals>=0.9",         # has stable.v2 (or omit this line entirely)
 #     "numpy==1.26.4",
 #     "pandas==2.2.2",
 #     "matplotlib==3.9.2",
 #     "scikit-learn==1.3.2",
-#     "narwhals==0.4.7",
 # ]
 # ///
+
 import marimo
 
 __generated_with = "0.16.2"
