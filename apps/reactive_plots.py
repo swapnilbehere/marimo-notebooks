@@ -4,6 +4,9 @@
 #     "altair==5.4.1",
 #     "marimo",
 #     "vega-datasets==0.9.0",
+#     "pandas==2.2.2",
+#     "numpy==1.26.4",
+#     "narwhals>=0.9",         # has stable.v2 (or omit this line entirely)
 # ]
 # ///
 
